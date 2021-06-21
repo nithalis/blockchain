@@ -1,0 +1,6 @@
+,receiving_count,receiving_total,receiving_partners,receiving_min,receiving_count_erc20,receiving_max,receiving_median,receiving_total_rank,receiving_partners_rank,receiving_count_erc20_rank,sending_count,sending_total,sending_partners,sending_min,sending_count_erc20,sending_max,sending_median,sending_total_rank,sending_partners_rank,sending_count_erc20_rank
+both,2.0,15.0,2.0,0.0,1.0,15.0,7.5,2.0,2.5,3.0,3.0,0.0,2.0,0.0,3.0,0.0,0.0,3.5,2.5,1.0
+both_a,3.0,0.0,2.0,0.0,3.0,0.0,0.0,3.0,2.5,1.0,2.0,30.0,2.0,15.0,2.0,15.0,15.0,2.0,2.5,2.5
+only_receive,5.0,60.0,4.0,0.0,2.0,25.0,15.0,1.0,1.0,2.0,,,,,,,,,,
+only_send,,,,,,,,,,,4.0,45.0,3.0,0.0,2.0,25.0,10.0,1.0,1.0,2.5
+only_send_two,,,,,,,,,,,1.0,0.0,1.0,0.0,1.0,0.0,0.0,3.5,4.0,4.0
